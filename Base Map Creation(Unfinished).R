@@ -279,7 +279,3 @@ Client_Residence_Map
 #Export
 saveWidget(Client_Residence_Map, 'C:/Carlyle/Reference Pool/ClientResidenceMap')
 
-How to finish?
-1. Join religion and race info to existing geocoded database so that a race and religion column exists for each client
-2. Create two new palletes with domains of these new race and religion columns
-3. Add to map in similar style to existing layers(make sure to use groups and layers to optimize UI)
